@@ -2,6 +2,8 @@
 
 ## Checklist
 
+Log any issues here https://github.com/orgs/akademie-oeffentliches-gesundheitswesen/projects/1
+
  1. Documents set to German language
  1. Document style set to Comfy Elephant
  1. Citation Style Chicago Manual of Style 17th author-date
@@ -13,3 +15,4 @@
  1. Book size to Octavo 6x9
  1. Book citation style to Chicago Manual of Style 17th author-date
  1. Fill in book metadata
+ 1. If you see any mentions of CC NC either change to CC BY or log here
