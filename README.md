@@ -15,4 +15,6 @@ Log any issues here https://github.com/orgs/akademie-oeffentliches-gesundheitswe
  1. Book size to Octavo 6x9
  1. Book citation style to Chicago Manual of Style 17th author-date
  1. Fill in book metadata
- 1. If you see any mentions of CC NC either change to CC BY or log here
+ 1. If you see any mentions of CC NC either change to CC BY or log here https://github.com/orgs/akademie-oeffentliches-gesundheitswesen/projects/1
+ 1. Quotes to be set apart need to be styles with the quote style " button
+ 1. Document only has one H1 header, that's the title. All other headers must come down from H2 and down. Do not put in any H1 headers.
